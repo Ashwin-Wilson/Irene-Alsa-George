@@ -600,7 +600,7 @@ section {
 
 .about .image {
   background: url("../img/me.png")  center no-repeat;
-  background-size: cover;
+  background-size: contain;
   min-height: 500px;
 }
 
